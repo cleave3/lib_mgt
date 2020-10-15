@@ -1,0 +1,9 @@
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+C:\Users\AIL\Documents\PROJECTS\c#\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
